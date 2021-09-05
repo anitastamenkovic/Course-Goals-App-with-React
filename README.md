@@ -3,4 +3,4 @@
  
 ## Instructions
 
-Use npm install for nstall all dependencies
+Use npm install (install all dependencies)
